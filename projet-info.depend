@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1419092633 source:c:\users\youssef\desktop\projet info\projet-info\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1419092792 source:c:\users\youssef\desktop\projet info\projet-info\resource.rc
+
+1421322258 source:c:\users\youssef\desktop\projet info\projet-info\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1419092792 source:c:\users\youssef\desktop\video\projet-info\resource.rc
+
+1419092792 source:c:\users\youssef\desktop\projet offi\projet-info\resource.rc
+
+1421669185 source:c:\users\youssef\desktop\projet offi\projet-info\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1419096392 source:c:\users\youssef\documents\projet info\tot\projet offi\projet-info\resource.rc
+
